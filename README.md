@@ -1,4 +1,4 @@
-<image width="300px" src="/profile.jpg"/>
+<image width="300px" src="/profile.jpeg"/>
 
 <p align="" style="line-height: 2"> 
 "세상에 선한 영향력을"<br>

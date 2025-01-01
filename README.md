@@ -1,9 +1,13 @@
-## Hi there 👋
----
+<image width="300px" src="/profile.jpg"/>
 
+<p align="" style="line-height: 2"> 
+"세상에 선한 영향력을"<br>
+내가 가지고 있는 기술과 능력 바탕으로<br>
+세상을 변화시키고 싶은 사람.<br>
 
-I am **jahoon Joo**
-- 🔭 I’m currently studying on Korea Digital Media HighSchool
-- 🌱 I’m currently learning React
-- 📫 How to reach me: jeijhoon@naver.com
-- ⚡  interested in : Startup, Design, Coding
+-AI 코딩 교육 서비스, 호랑에듀 Business Development Manager <br>
+-한국디지털미디어고등학교 20기 e-비즈니스과 [2021.03 - 2024.02] <br>
+-중고등학생 IT/창업 비영리단체, IMPACT 설립 <br>
+-'스타트업 동아리, 저스트' 설립 <br>
+</p>
+
